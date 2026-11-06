@@ -17,8 +17,6 @@
 
 Mohen makes almost every weapon in Phantom Blade Zero swing like an ink brush. Attacks leave black ink instead of the game's trails, and the blades themselves turn black. Stats, movesets and hitboxes stay the same.
 
-The name is Chinese: 墨 means ink, 痕 a trace or a scar.
-
 ## What it looks like
 
 <table>
@@ -42,11 +40,11 @@ The name is Chinese: 墨 means ink, 痕 a trace or a scar.
 
 ## What changes
 
-Heavy, charged and special attacks draw a thick black brush stroke with a faint crimson edge. It's the ink stroke one of the game's bosses leaves, moved onto your weapons.
+Heavy, charged and special attacks draw a thick black brush stroke.
 
 Light attacks leave thin ink that curls behind the blade: a bandit's blood trail, recolored black.
 
-Blades, hilts and guards are recolored dark grey, so the engraving and the wear still show. Kicks and the dodge keep their own look, and blood stays red.
+Blades, hilts and guards are recolored dark grey, so the engraving and the wear still show. Kicks and the dodge keep their own look.
 
 A few things work differently:
 
