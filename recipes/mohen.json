@@ -135,8 +135,7 @@
     "to": "#383838",
     "all": true,
     "mesh": true
-   },
-   "unlock_trails": true
+   }
   },
   {
    "base": "DualHook",
