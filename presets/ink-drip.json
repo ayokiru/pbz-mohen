@@ -1,3 +1,0 @@
-{"id": "mohen-ink-drip", "description": "A cutscene's blood drip as black ink: its only color source is the material (tint and two main colors).",
- "systems": {"NS_s022_MengHua_BloodDriping_001": {}},
- "materials": {"/PBZVFXPack/VFX/A_Materials/Common/Clip_002/MI_FX_C2_Buff_101_T2": {"ColorTint": [0.03, 0.03, 0.03, 1.0], "Main_Color_1": [0.6, 0.6, 0.6, 1.0], "Main_Color_2": [0.4, 0.4, 0.4, 1.0]}}}
