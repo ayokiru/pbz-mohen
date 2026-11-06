@@ -11,6 +11,8 @@ from pathlib import Path
 # MoYuan's strong trail: a black brush stroke with a crimson edge and black ink drops, and it fades, so it suits
 # every attack. (His basic trail has no drops, his charged one throws red sparks.)
 INK = "NS_MoYuan_Trail_Strong_001"
+# light attacks: the bandit JinYe's blood trail, black after the ink preset, so every combo shows both
+SPLASH = "NS_JinYe_BloodTrail_101"
 KEEP = ("Kick", "Blink")  # kicks and the dodge keep their own look
 # the whole weapon: the brightest steel becomes this dark grey. "mesh": a copy of the blade mesh carries the
 # material, since some blades (bleeding ones like Iron) rebuild it from the mesh and ignore the override
@@ -21,7 +23,9 @@ NO_BLADE = ("XieShan",)  # its blade is an effect, there is no material to recol
 
 
 def ink_for(tag: str) -> str | None:
-    return None if tag.startswith(KEEP) else INK
+    if tag.startswith(KEEP):
+        return None
+    return SPLASH if "A" in tag.split(".") else INK  # light attacks: the ink blood trail, the rest: the stroke
 
 
 def recipe(catalog: list[dict]) -> dict:

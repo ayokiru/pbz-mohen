@@ -1,6 +1,6 @@
 {
  "id": "mohen-ink",
- "description": "MoYuan's strong trail as black ink: the red ribbon goes black, its glowing red line is dimmed to a faint crimson, the stroke's edge is dark crimson. Each write starts one slot early (the 1.0 kept) so it matches once; only the red slot of each baked color is written: script constants are shared, the zeros next to it may be used elsewhere.",
+ "description": "MoYuan's strong trail as black ink: the red ribbon goes black, its glowing red line is dimmed to a faint crimson, the stroke's edge is dark crimson. Each write starts one slot early (the 1.0 kept) so it matches once; only the red slot of each baked color is written: script constants are shared, the zeros next to it may be used elsewhere. The bandit JinYe's blood trail as black ink (light attacks): its blood materials' tint goes near black and their red edge off, like the in-game test of 06.11 the user liked.",
  "systems": {
   "NS_MoYuan_Trail_Strong_001": {
    "lut_gray": 0.06,
@@ -22,7 +22,8 @@
      ]
     }
    ]
-  }
+  },
+  "NS_JinYe_BloodTrail_101": {}
  },
  "materials": {
   "/PBZVFXPack/VFX/BattleFX/HuaShan/Assets/MI_FX_BS1_Blade_101_B": {
@@ -37,6 +38,48 @@
     0.0,
     0.004,
     1.0
+   ]
+  },
+  "/PBZVFXPack/VFX/A_Materials/Common/Clip_002/MI_FX_C2_Blood_001_T": {
+   "ColorTint": [
+    0.02,
+    0.02,
+    0.02,
+    1.0
+   ],
+   "EdgeColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "/PBZVFXPack/VFX/A_Materials/Common/Clip_002/MI_FX_C2_Blood_003_T": {
+   "ColorTint": [
+    0.02,
+    0.02,
+    0.02,
+    1.0
+   ],
+   "EdgeColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "/PBZVFXPack/VFX/A_Materials/Common/Clip_002/MI_FX_C2_Blood_004_T": {
+   "ColorTint": [
+    0.02,
+    0.02,
+    0.02,
+    1.0
+   ],
+   "EdgeColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
    ]
   }
  }
