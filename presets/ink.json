@@ -1,4 +1,5 @@
-{"id": "mohen-ink", "description": "MoYuan's strong trail as black ink: the red ribbon and its baked red color go black, the edge stays a thin dark crimson.",
+{"id": "mohen-ink", "description": "MoYuan's strong trail as black ink: the red ribbon goes black, its glowing red line is dimmed to a faint crimson, the stroke's edge is dark crimson. Only the red slot of each baked color is written: script constants are shared, the zeros next to it may be used elsewhere.",
  "systems": {"NS_MoYuan_Trail_Strong_001": {"lut_gray": 0.06,
-   "literals": [{"emitter": "NE_Template_BladeTrail001_0", "start": 3, "values": [0.04, 0.04, 0.04]}]}},
+   "literals": [{"emitter": "NE_Template_BladeTrail001_0", "start": 3, "values": [0.04]},
+                {"emitter": "Trali_1", "start": 3, "values": [0.2]}]}},
  "materials": {"/PBZVFXPack/VFX/BattleFX/HuaShan/Assets/MI_FX_BS1_Blade_101_B": {"Main_Color_1": [0.03, 0.03, 0.03, 1.0], "Main_Color_2": [0.12, 0.0, 0.004, 1.0]}}}
