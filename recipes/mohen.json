@@ -135,7 +135,10 @@
     "to": "#383838",
     "all": true,
     "mesh": true
-   }
+   },
+   "add_tags": [
+    "Weapon.Type.Jade"
+   ]
   },
   {
    "base": "DualHook",

@@ -15,6 +15,9 @@ KEEP = ("Kick", "Blink")  # kicks and the dodge keep their own look
 # the whole weapon: the brightest steel becomes this dark grey. "mesh": a copy of the blade mesh carries the
 # material, since some blades (bleeding ones like Iron) rebuild it from the mesh and ignore the override
 BLACK = {"to": "#383838", "all": True, "mesh": True}
+# the dual blade attacks (shared by Double, JueYing and JadeDual) draw their trails only for Jade weapons, and
+# JueYing has its own copies of them: Double gets the tag so its attacks draw the ink too
+EXTRA = {"Double": {"add_tags": ["Weapon.Type.Jade"]}}
 NO_BLADE = ("XieShan",)  # its blade is an effect, there is no material to recolor
 
 
@@ -29,6 +32,7 @@ def recipe(catalog: list[dict]) -> dict:
         entry = {"base": w["key"], "trails": trails, "trail_color": "presets/ink.json"}
         if not w["key"].startswith(NO_BLADE):
             entry["blade_color"] = BLACK
+        entry.update(EXTRA.get(w["key"], {}))
         weapons.append(entry)
     # small z: a mod that changes a weapon's look wins on that weapon
     return {"pak_name": "zzz_zMohen_P", "weapons": weapons}
