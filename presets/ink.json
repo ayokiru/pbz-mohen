@@ -1,6 +1,6 @@
 {
  "id": "mohen-ink",
- "description": "MoYuan's strong trail as black ink: the red ribbon goes black, its glowing red line is dimmed to a faint crimson, the stroke's edge is dark crimson. Each write starts one slot early (the 1.0 kept) so it matches once; only the red slot of each baked color is written: script constants are shared, the zeros next to it may be used elsewhere.",
+ "description": "MoYuan's strong trail as black ink: the red ribbon goes black, its glowing red line is dimmed to a faint crimson, the stroke's edge is dark crimson. Each write starts one slot early (the 1.0 kept) so it matches once; only the red slot of each baked color is written: script constants are shared, the zeros next to it may be used elsewhere. Wild Oriole's light-attack trail (LuanYing 401_P1) as black splashes: its baked red main and orange detail colors go near black.",
  "systems": {
   "NS_MoYuan_Trail_Strong_001": {
    "lut_gray": 0.06,
@@ -19,6 +19,29 @@
      "values": [
       1.0,
       0.2
+     ]
+    }
+   ]
+  },
+  "NS_LuanYing_BladeTrail_401_P1": {
+   "literals": [
+    {
+     "emitter": "NE_Blade_Main_0",
+     "script": "SpawnScript",
+     "start": 11,
+     "values": [
+      0.04,
+      0.04,
+      0.04
+     ]
+    },
+    {
+     "emitter": "NE_Blade_Detail_0",
+     "script": "SpawnScript",
+     "start": 13,
+     "values": [
+      0.04,
+      0.04
      ]
     }
    ]

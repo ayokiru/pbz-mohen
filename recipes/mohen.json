@@ -6,8 +6,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.L2": "NS_MoYuan_Trail_Strong_001",
@@ -23,7 +23,7 @@
   {
    "base": "BaiYing",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001"
@@ -38,7 +38,7 @@
   {
    "base": "ChiRen",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001"
@@ -53,18 +53,18 @@
   {
    "base": "ChiZheCanJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Normal.B": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Tipsy.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.A": "NS_LuanYing_BladeTrail_401_P1",
     "ChiZheCanJian.Tipsy.B": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Drunk.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.A": "NS_LuanYing_BladeTrail_401_P1",
     "ChiZheCanJian.Drunk.B": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
@@ -79,18 +79,18 @@
   {
    "base": "ChiZheZuiJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Normal.B": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Tipsy.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.A": "NS_LuanYing_BladeTrail_401_P1",
     "ChiZheCanJian.Tipsy.B": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Drunk.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.A": "NS_LuanYing_BladeTrail_401_P1",
     "ChiZheCanJian.Drunk.B": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
@@ -105,7 +105,7 @@
   {
    "base": "CiGuHunDunJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "YuCong.Bing.Normal": "NS_MoYuan_Trail_Strong_001",
@@ -123,8 +123,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001",
@@ -142,8 +142,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.Weak.L": "NS_MoYuan_Trail_Strong_001",
@@ -160,7 +160,7 @@
   {
    "base": "GuiTouBlade",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -174,7 +174,7 @@
   {
    "base": "HeiMoShang",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -188,7 +188,7 @@
   {
    "base": "Horizontal",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -202,7 +202,7 @@
   {
    "base": "Iron",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -218,8 +218,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
@@ -233,7 +233,7 @@
   {
    "base": "Jigsaw",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -249,8 +249,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001",
@@ -266,7 +266,7 @@
   {
    "base": "Long",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001"
@@ -281,7 +281,7 @@
   {
    "base": "LuanYing_Evolution",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L2": "NS_MoYuan_Trail_Strong_001",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
@@ -296,7 +296,7 @@
   {
    "base": "PoJun",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -312,8 +312,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
@@ -327,7 +327,7 @@
   {
    "base": "SlitheringSword",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Ghost.C.R": "NS_MoYuan_Trail_Strong_001"
@@ -342,16 +342,16 @@
   {
    "base": "SnakeDual",
    "trails": {
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Stab.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Stab.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Stab.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Stab.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Stab.B.L": "NS_MoYuan_Trail_Strong_001",
     "Stab.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Vortex.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Vortex.A.L": "NS_LuanYing_BladeTrail_401_P1",
     "Vortex.B.L": "NS_MoYuan_Trail_Strong_001",
     "Vortex.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
@@ -368,7 +368,7 @@
   {
    "base": "Tang",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001",
@@ -384,7 +384,7 @@
   {
    "base": "TianXuanQingTongJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "BiYuan.BHold": "NS_MoYuan_Trail_Strong_001"
@@ -399,7 +399,7 @@
   {
    "base": "WoodenSword",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -415,8 +415,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
@@ -425,7 +425,7 @@
   {
    "base": "YanYueDao",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -441,8 +441,8 @@
    "trails": {
     "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_LuanYing_BladeTrail_401_P1",
+    "Normal.A.R": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
@@ -456,7 +456,7 @@
   {
    "base": "ZhanMaBlade",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
@@ -470,7 +470,7 @@
   {
    "base": "ZiMingJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
