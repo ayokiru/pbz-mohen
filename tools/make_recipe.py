@@ -16,8 +16,9 @@ KEEP = ("Kick", "Blink")  # kicks and the dodge keep their own look
 # material, since some blades (bleeding ones like Iron) rebuild it from the mesh and ignore the override
 BLACK = {"to": "#383838", "all": True, "mesh": True}
 # the dual blade attacks (shared by Double, JueYing and JadeDual) draw their trails only for Jade weapons, and
-# JueYing has its own copies of them: Double gets the tag so its attacks draw the ink too
-EXTRA = {"Double": {"add_tags": ["Weapon.Type.Jade"]}}
+# JueYing has its own copies of them. Double: its own type is added to those conditions (giving it the Jade tag
+# instead crashes the game when the blades are drawn)
+EXTRA = {"Double": {"unlock_trails": True}}
 NO_BLADE = ("XieShan",)  # its blade is an effect, there is no material to recolor
 
 

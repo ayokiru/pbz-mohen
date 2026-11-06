@@ -136,9 +136,7 @@
     "all": true,
     "mesh": true
    },
-   "add_tags": [
-    "Weapon.Type.Jade"
-   ]
+   "unlock_trails": true
   },
   {
    "base": "DualHook",
