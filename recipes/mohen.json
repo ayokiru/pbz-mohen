@@ -13,6 +13,7 @@
     "Normal.L2": "NS_MoYuan_Trail_Strong_001",
     "Normal.R2": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -26,6 +27,7 @@
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -39,6 +41,7 @@
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -63,6 +66,7 @@
     "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -87,6 +91,7 @@
     "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -101,6 +106,7 @@
     "YuCong.Bing.Normal": "NS_MoYuan_Trail_Strong_001",
     "YuCong.HunDun.Normal": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -118,6 +124,7 @@
     "Normal.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.L2": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -136,6 +143,7 @@
     "Normal.B.Weak.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -148,6 +156,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -160,6 +169,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -172,6 +182,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -184,6 +195,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -199,6 +211,7 @@
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -211,6 +224,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -228,6 +242,7 @@
     "Normal.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.L2": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -241,6 +256,7 @@
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Normal.L": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -254,6 +270,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -266,6 +283,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -281,6 +299,7 @@
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -294,6 +313,7 @@
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "Ghost.C.R": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -318,6 +338,7 @@
     "Normal.C.R_Final": "NS_MoYuan_Trail_Strong_001",
     "Normal.EXE.L": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -332,6 +353,7 @@
     "Normal.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.L2": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -345,6 +367,7 @@
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
     "BiYuan.BHold": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -357,6 +380,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -371,7 +395,8 @@
     "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
-   }
+   },
+   "trail_color": "presets/ink.json"
   },
   {
    "base": "YanYueDao",
@@ -380,6 +405,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -395,6 +421,7 @@
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -407,6 +434,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true
@@ -419,6 +447,7 @@
     "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
    },
+   "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
     "all": true

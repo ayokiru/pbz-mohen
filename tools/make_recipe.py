@@ -24,7 +24,7 @@ def recipe(catalog: list[dict]) -> dict:
     weapons = []
     for w in catalog:
         trails = {t["tag"]: ink_for(t["tag"]) for t in w["trails"] if ink_for(t["tag"])}
-        entry = {"base": w["key"], "trails": trails}
+        entry = {"base": w["key"], "trails": trails, "trail_color": "presets/ink.json"}
         if not w["key"].startswith(NO_BLADE):
             entry["blade_color"] = BLACK
         weapons.append(entry)
