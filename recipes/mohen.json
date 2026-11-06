@@ -4,275 +4,371 @@
   {
    "base": "BaiShanFengLeiJian",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L2": "NS_MoYuan_Trail_Basic_001",
-    "Normal.R2": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001",
+    "Normal.R2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "BaiYing",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "ChiRen",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "ChiZheCanJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Basic_001",
+    "ChiZheCanJian.Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Charged_001",
-    "ChiZheCanJian.Tipsy.A": "NS_MoYuan_Trail_Basic_001",
+    "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.A": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Tipsy.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Charged_001",
-    "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Basic_001",
-    "ChiZheCanJian.Drunk.A": "NS_MoYuan_Trail_Basic_001",
+    "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.A": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Charged_001",
-    "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Basic_001"
+    "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "ChiZheZuiJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Basic_001",
+    "ChiZheCanJian.Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Charged_001",
-    "ChiZheCanJian.Tipsy.A": "NS_MoYuan_Trail_Basic_001",
+    "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.A": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Tipsy.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Charged_001",
-    "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Basic_001",
-    "ChiZheCanJian.Drunk.A": "NS_MoYuan_Trail_Basic_001",
+    "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.A": "NS_MoYuan_Trail_Strong_001",
     "ChiZheCanJian.Drunk.B": "NS_MoYuan_Trail_Strong_001",
-    "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Charged_001",
-    "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Basic_001"
+    "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "CiGuHunDunJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "YuCong.Bing.Normal": "NS_MoYuan_Trail_Basic_001",
-    "YuCong.HunDun.Normal": "NS_MoYuan_Trail_Basic_001"
+    "YuCong.Bing.Normal": "NS_MoYuan_Trail_Strong_001",
+    "YuCong.HunDun.Normal": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "Double",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.L2": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "DualHook",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.Weak.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.Weak.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "GuiTouBlade",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "HeiMoShang",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "Horizontal",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "Iron",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "JadeDual",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "Jigsaw",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "JueYing",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.L2": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "Long",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "LuanYing_Evolution",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L2": "NS_MoYuan_Trail_Strong_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "PoJun",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "ShuangYue",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "SlitheringSword",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "Ghost.C.R": "NS_MoYuan_Trail_Charged_001"
+    "Ghost.C.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "SnakeDual",
    "trails": {
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Stab.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Stab.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Stab.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Stab.A.R": "NS_MoYuan_Trail_Strong_001",
     "Stab.B.L": "NS_MoYuan_Trail_Strong_001",
     "Stab.B.R": "NS_MoYuan_Trail_Strong_001",
-    "Vortex.A.L": "NS_MoYuan_Trail_Basic_001",
+    "Vortex.A.L": "NS_MoYuan_Trail_Strong_001",
     "Vortex.B.L": "NS_MoYuan_Trail_Strong_001",
-    "Vortex.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R_Final": "NS_MoYuan_Trail_Charged_001",
-    "Normal.EXE.L": "NS_MoYuan_Trail_Basic_001"
+    "Vortex.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R_Final": "NS_MoYuan_Trail_Strong_001",
+    "Normal.EXE.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "Tang",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "Normal.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.L2": "NS_MoYuan_Trail_Basic_001"
+    "Normal.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "TianXuanQingTongJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001",
-    "BiYuan.BHold": "NS_MoYuan_Trail_Basic_001"
+    "BiYuan.BHold": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "WoodenSword",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "XieShan",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
    }
@@ -280,36 +376,52 @@
   {
    "base": "YanYueDao",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "YuuBlade",
    "trails": {
-    "Normal.C.L": "NS_MoYuan_Trail_Charged_001",
-    "Normal.C.R": "NS_MoYuan_Trail_Charged_001",
-    "Normal.A.L": "NS_MoYuan_Trail_Basic_001",
-    "Normal.A.R": "NS_MoYuan_Trail_Basic_001",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
     "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "ZhanMaBlade",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   },
   {
    "base": "ZiMingJian",
    "trails": {
-    "Normal.A": "NS_MoYuan_Trail_Basic_001",
-    "Normal.C": "NS_MoYuan_Trail_Charged_001",
+    "Normal.A": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
     "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "blade_color": {
+    "to": "#383838",
+    "all": true
    }
   }
  ]
