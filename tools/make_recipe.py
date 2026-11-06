@@ -12,7 +12,9 @@ from pathlib import Path
 # every attack. (His basic trail has no drops, his charged one throws red sparks.)
 INK = "NS_MoYuan_Trail_Strong_001"
 KEEP = ("Kick", "Blink")  # kicks and the dodge keep their own look
-BLACK = {"to": "#383838", "all": True}  # the whole weapon: the brightest steel becomes this dark grey
+# the whole weapon: the brightest steel becomes this dark grey. "mesh": a copy of the blade mesh carries the
+# material, since some blades (bleeding ones like Iron) rebuild it from the mesh and ignore the override
+BLACK = {"to": "#383838", "all": True, "mesh": True}
 NO_BLADE = ("XieShan",)  # its blade is an effect, there is no material to recolor
 
 

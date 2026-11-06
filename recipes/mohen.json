@@ -16,7 +16,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -30,7 +31,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -44,7 +46,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -69,7 +72,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -94,7 +98,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -109,7 +114,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -127,7 +133,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -146,7 +153,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -159,7 +167,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -172,7 +181,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -185,7 +195,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -198,7 +209,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -214,7 +226,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -227,7 +240,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -245,7 +259,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -259,7 +274,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -273,7 +289,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -286,7 +303,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -302,7 +320,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -316,7 +335,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -341,7 +361,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -356,7 +377,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -370,7 +392,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -383,7 +406,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -408,7 +432,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -424,7 +449,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -437,7 +463,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   },
   {
@@ -450,7 +477,8 @@
    "trail_color": "presets/ink.json",
    "blade_color": {
     "to": "#383838",
-    "all": true
+    "all": true,
+    "mesh": true
    }
   }
  ]
