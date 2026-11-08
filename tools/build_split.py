@@ -1,6 +1,6 @@
 """Builds one pak per weapon from recipes/mohen.json, each in its own release zip.
 
-usage: python tools/build_split.py VERSION [NAMES_JSON]
+usage: python tools/build_split.py VERSION [NAMES_JSON] [RECIPE]
 Needs Bladesmith importable (python -m bladesmith). NAMES_JSON is Bladesmith's bladesmith/data/names.json, for the
 weapons' English names in the zip names. Output: dist/Mohen_<Weapon>_<VERSION>.zip, packed like the main zip.
 """
@@ -27,26 +27,31 @@ def pack(pak_dir: Path, pak: str, out: Path) -> None:
             z.writestr(zi, data)
 
 
-def main(version: str, names_json: str | None) -> None:
-    recipe = json.loads((ROOT / "recipes" / "mohen.json").read_text(encoding="utf-8"))
+def main(version: str, names_json: str | None, recipe_name: str = "mohen") -> None:
+    """recipe_name: mohen (zips in dist/) or mohen-trails-only (paks only, in dist/mohen-trails-only/<Weapon>/)."""
+    recipe = json.loads((ROOT / "recipes" / f"{recipe_name}.json").read_text(encoding="utf-8"))
+    loose = recipe_name != "mohen"
     names = json.loads(Path(names_json).read_text(encoding="utf-8")) if names_json else {}
     for w in recipe["weapons"]:
         key = w["base"]
         pak = f"zzz_zMohen_{key}_P"
         label = re.sub(r"[^A-Za-z0-9 ]", "", names.get(key, key)).title().replace(" ", "")
         out = DIST / f"Mohen_{label}_{version}.zip"
-        if out.exists() and out.stat().st_size > 1 << 20:  # built by an earlier, interrupted run
+        if loose:
+            out = DIST / recipe_name / names.get(key, key).replace(":", "")
+        if out.exists() and (loose or out.stat().st_size > 1 << 20):  # built by an earlier, interrupted run
             continue
         one = {**recipe, "pak_name": pak, "weapons": [w]}
-        rfile = DIST / "recipes" / f"{key}.json"
+        rfile = DIST / "recipes" / recipe_name / f"{key}.json"
         rfile.parent.mkdir(parents=True, exist_ok=True)
         rfile.write_text(json.dumps(one, indent=1), encoding="utf-8")
-        pak_dir = DIST / "pak" / key
+        pak_dir = out if loose else DIST / "pak" / key
         subprocess.run([sys.executable, "-m", "bladesmith", "build", str(rfile), "-o", str(pak_dir)],
                        check=True, capture_output=True, cwd=ROOT)
-        pack(pak_dir, pak, out)
+        if not loose:
+            pack(pak_dir, pak, out)
         print(f"{out.name}  {out.stat().st_size / 2**20:.1f} MB")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else None)
+    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else None, *sys.argv[3:4])

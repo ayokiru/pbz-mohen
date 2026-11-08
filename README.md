@@ -63,7 +63,7 @@ To remove it, delete `zzz_zMohen_P.pak`, `.ucas` and `.utoc` from `~mods`.
 
 If you only want some weapons, every weapon also has its own zip in the [release](https://github.com/ayokiru/pbz-mohen/releases/latest), named after the weapon. Install those instead of the main file.
 
-To keep every weapon's own look and get only the trails, install [Mohen_TrailsOnly_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/latest/download/Mohen_TrailsOnly_1.0.zip) instead of the main file. The blades stay as they are in the game, with no black recolor.
+To keep every weapon's own look and get only the trails, install [Mohen_TrailsOnly_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/latest/download/Mohen_TrailsOnly_1.0.zip) instead of the main file. The blades stay as they are in the game, with no black recolor. The same zip has a `Per weapon` folder too: to get the trails on only some weapons, copy their folders' files into `~mods` instead of the whole thing.
 
 ## With other mods
 
