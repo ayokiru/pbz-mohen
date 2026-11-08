@@ -1,0 +1,345 @@
+{
+ "pak_name": "zzz_zMohen_P",
+ "weapons": [
+  {
+   "base": "BaiShanFengLeiJian",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001",
+    "Normal.R2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "BaiYing",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "ChiRen",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "ChiZheCanJian",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.A": "NS_JinYe_BloodTrail_101",
+    "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.A": "NS_JinYe_BloodTrail_101",
+    "ChiZheCanJian.Tipsy.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.A": "NS_JinYe_BloodTrail_101",
+    "ChiZheCanJian.Drunk.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "ChiZheZuiJian",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.A": "NS_JinYe_BloodTrail_101",
+    "ChiZheCanJian.Normal.Tail": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.A": "NS_JinYe_BloodTrail_101",
+    "ChiZheCanJian.Tipsy.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Tipsy.Tail": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.A": "NS_JinYe_BloodTrail_101",
+    "ChiZheCanJian.Drunk.B": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.C": "NS_MoYuan_Trail_Strong_001",
+    "ChiZheCanJian.Drunk.Tail": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "CiGuHunDunJian",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "YuCong.Bing.Normal": "NS_MoYuan_Trail_Strong_001",
+    "YuCong.HunDun.Normal": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "Double",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "DualHook",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.Weak.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.Weak.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "GuiTouBlade",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "HeiMoShang",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "Horizontal",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "Iron",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "JadeDual",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "Jigsaw",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "JueYing",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "Long",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "LuanYing_Evolution",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L2": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "PoJun",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "ShuangYue",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "SlitheringSword",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "Ghost.C.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "SnakeDual",
+   "trails": {
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001",
+    "Stab.A.L": "NS_JinYe_BloodTrail_101",
+    "Stab.A.R": "NS_JinYe_BloodTrail_101",
+    "Stab.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Stab.B.R": "NS_MoYuan_Trail_Strong_001",
+    "Vortex.A.L": "NS_JinYe_BloodTrail_101",
+    "Vortex.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Vortex.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R_Final": "NS_MoYuan_Trail_Strong_001",
+    "Normal.EXE.L": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "Tang",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.L2": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "TianXuanQingTongJian",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001",
+    "BiYuan.BHold": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "WoodenSword",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "XieShan",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "YanYueDao",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "YuuBlade",
+   "trails": {
+    "Normal.C.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.C.R": "NS_MoYuan_Trail_Strong_001",
+    "Normal.A.L": "NS_JinYe_BloodTrail_101",
+    "Normal.A.R": "NS_JinYe_BloodTrail_101",
+    "Normal.B.L": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B.R": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "ZhanMaBlade",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  },
+  {
+   "base": "ZiMingJian",
+   "trails": {
+    "Normal.A": "NS_JinYe_BloodTrail_101",
+    "Normal.C": "NS_MoYuan_Trail_Strong_001",
+    "Normal.B": "NS_MoYuan_Trail_Strong_001"
+   },
+   "trail_color": "presets/ink.json"
+  }
+ ]
+}

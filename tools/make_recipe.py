@@ -44,5 +44,12 @@ if __name__ == "__main__":
     data = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
     catalog = data["catalog"] if isinstance(data, dict) else data
     out = Path(__file__).resolve().parents[1] / "recipes" / "mohen.json"
-    out.write_text(json.dumps(recipe(catalog), indent=1) + "\n", encoding="utf-8", newline="\n")
-    print(out.name, len(recipe(catalog)["weapons"]), "weapons")
+    r = recipe(catalog)
+    out.write_text(json.dumps(r, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(out.name, len(r["weapons"]), "weapons")
+    # trails only: the same trails, every weapon keeps its own look (same pak name, so it replaces the main file)
+    for w in r["weapons"]:
+        w.pop("blade_color", None)
+    trails = out.with_name("mohen-trails-only.json")
+    trails.write_text(json.dumps(r, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(trails.name)
