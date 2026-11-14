@@ -53,3 +53,9 @@ if __name__ == "__main__":
     trails = out.with_name("mohen-trails-only.json")
     trails.write_text(json.dumps(r, indent=1) + "\n", encoding="utf-8", newline="\n")
     print(trails.name)
+    # blades only: the black blades, every weapon keeps its own trails (same pak name, it replaces the main file)
+    r["weapons"] = [{"base": w["base"], "blade_color": w["blade_color"]} for w in recipe(catalog)["weapons"]
+                    if "blade_color" in w]
+    blades = out.with_name("mohen-blades-only.json")
+    blades.write_text(json.dumps(r, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(blades.name, len(r["weapons"]), "weapons")

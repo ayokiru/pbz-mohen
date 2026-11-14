@@ -65,6 +65,8 @@ If you only want some weapons, every weapon also has its own zip in the [release
 
 To keep every weapon's own look and get only the trails, install [Mohen_TrailsOnly_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/latest/download/Mohen_TrailsOnly_1.0.zip) instead of the main file. The blades stay as they are in the game, with no black recolor. The same zip has a `Per weapon` folder too: to get the trails on only some weapons, copy their folders' files into `~mods` instead of the whole thing.
 
+For plain black blades with the game's own trails, install [Mohen_BladesOnly_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/download/blades-only-1.0/Mohen_BladesOnly_1.0.zip) instead of the main file. It has a `Per weapon` folder too.
+
 ## With other mods
 
 When two paks change the same weapon, the game uses the one whose name sorts first, and capital letters sort before small ones. Mohen's pak starts with `zzz_z`, so a mod that changes a weapon wins on that weapon and Mohen covers the rest. With Sanguine Skins installed, for example, the Sanguine weapons keep their own look and trails.

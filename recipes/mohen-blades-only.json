@@ -1,0 +1,229 @@
+{
+ "pak_name": "zzz_zMohen_P",
+ "weapons": [
+  {
+   "base": "BaiShanFengLeiJian",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "BaiYing",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "ChiRen",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "ChiZheCanJian",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "ChiZheZuiJian",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "CiGuHunDunJian",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "Double",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "DualHook",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "GuiTouBlade",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "HeiMoShang",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "Horizontal",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "Iron",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "JadeDual",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "Jigsaw",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "JueYing",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "Long",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "LuanYing_Evolution",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "PoJun",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "ShuangYue",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "SlitheringSword",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "SnakeDual",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "Tang",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "TianXuanQingTongJian",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "WoodenSword",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "YanYueDao",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "YuuBlade",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "ZhanMaBlade",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  },
+  {
+   "base": "ZiMingJian",
+   "blade_color": {
+    "to": "#383838",
+    "all": true,
+    "mesh": true
+   }
+  }
+ ]
+}
