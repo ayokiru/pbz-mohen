@@ -67,7 +67,7 @@ To keep every weapon's own look and get only the trails, install [Mohen_TrailsOn
 
 For plain black blades with the game's own trails, install [Mohen_BladesOnly_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/download/blades-only-1.0/Mohen_BladesOnly_1.0.zip) instead of the main file. It has a `Per weapon` folder too.
 
-A heavy attack with enough Sha-Chi makes a blue flash on Soul's chest. [BlackShaChiFlash_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/download/black-shachi-flash-1.0/BlackShaChiFlash_1.0.zip) turns it black on every weapon. It works with or without Mohen, so install it next to the main file. [`tools/build_black_flash.py`](tools/build_black_flash.py) builds it.
+A heavy attack with enough Sha-Chi makes a blue flash on Soul's chest, and the Sanguine's Sha-Chi dash and Chi-Infused Blade glow blue too. [BlackShaChiFlash_1.0.zip](https://github.com/ayokiru/pbz-mohen/releases/download/black-shachi-flash-1.0/BlackShaChiFlash_1.0.zip) turns all of that black. It works with or without Mohen, so install it next to the main file. [`tools/build_black_flash.py`](tools/build_black_flash.py) builds it.
 
 ## With other mods
 
